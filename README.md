@@ -52,7 +52,7 @@ bash build_all.sh
 
 ## Build and Run
 ```sh
-bash run_all.sh
+bash build_and_run.sh
 ```
 
 
